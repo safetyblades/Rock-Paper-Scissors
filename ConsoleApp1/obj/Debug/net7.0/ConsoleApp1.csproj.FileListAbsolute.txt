@@ -1,0 +1,14 @@
+c:\Users\valentin.rosu.913_ac\Documents\C# Projects\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.exe
+c:\Users\valentin.rosu.913_ac\Documents\C# Projects\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.deps.json
+c:\Users\valentin.rosu.913_ac\Documents\C# Projects\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.runtimeconfig.json
+c:\Users\valentin.rosu.913_ac\Documents\C# Projects\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.dll
+c:\Users\valentin.rosu.913_ac\Documents\C# Projects\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.pdb
+c:\Users\valentin.rosu.913_ac\Documents\C# Projects\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\valentin.rosu.913_ac\Documents\C# Projects\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.AssemblyInfoInputs.cache
+c:\Users\valentin.rosu.913_ac\Documents\C# Projects\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.AssemblyInfo.cs
+c:\Users\valentin.rosu.913_ac\Documents\C# Projects\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+c:\Users\valentin.rosu.913_ac\Documents\C# Projects\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.dll
+c:\Users\valentin.rosu.913_ac\Documents\C# Projects\ConsoleApp1\obj\Debug\net7.0\refint\ConsoleApp1.dll
+c:\Users\valentin.rosu.913_ac\Documents\C# Projects\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.pdb
+c:\Users\valentin.rosu.913_ac\Documents\C# Projects\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.genruntimeconfig.cache
+c:\Users\valentin.rosu.913_ac\Documents\C# Projects\ConsoleApp1\obj\Debug\net7.0\ref\ConsoleApp1.dll
